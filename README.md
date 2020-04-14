@@ -13,7 +13,7 @@ Please find the medium article explaining the proposed approach [here](https://m
 
 Data: contains files describing the features.
 
-**Dependenies**
+**Dependencies**
 * sklearn==0.22.2
 * pandas==1.0.3
 * numpy==1.18.1
@@ -25,13 +25,15 @@ Data: contains files describing the features.
 
 Following models were used to analyze the data:
 
-_Unsupervised Models_
+**Unsupervised Models**
+
 To perform customer segmentation and identify clusters/segments from general population are most similar to  mail-order company's customer base.
 
 1. PCA
 2. Kmeans
 
-_Supervised Models_
+**Supervised Models**
+
 To identify individuals who would respond positively to the targeted campaign and possibly turn into customers of the mail-order company.
 
 1. AdaBoostRegressor
