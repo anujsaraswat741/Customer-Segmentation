@@ -1,13 +1,13 @@
 # Customer-Segmentation
 
-This is a Capstone project of Udacity: Data Scientist Nanodegree Program
-
 In this project, Supervised and Unsupervised machine learning models were used to analyze the demographic data of customers of a mail-order 
 company in Germany. The data was compared against the general population to identity the core customer base of the mail-order company.
 
 Please find the medium article explaining the proposed approach [here](https://medium.com/@anujsaraswat/customer-segmentation-a-better-way-to-detect-and-target-customers-f6a06ce533b3)
 
 ***
+
+*** Note: The dataset used for this task is not publicly available***
 
 **Directories**
 
